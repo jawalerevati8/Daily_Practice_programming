@@ -1,2 +1,1 @@
-# Daily-Coding-Practice
-Daily Practice 
+# C_Programming
